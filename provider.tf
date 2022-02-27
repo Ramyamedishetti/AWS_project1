@@ -1,0 +1,1 @@
+this file contains access key and secure key to connect AWS
