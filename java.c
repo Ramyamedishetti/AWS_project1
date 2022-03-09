@@ -1,1 +1,6 @@
-# this file useful to define c languge coding
+#include <stdio.h>
+int main()
+{
+    printf("hello world");
+    return 0;
+}
